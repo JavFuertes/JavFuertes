@@ -1,17 +1,9 @@
-[![Game of Life GIF](https://media.giphy.com/media/NSJOVcuMZ5hkS1oMTc/giphy.gif)](https://github.com/JavFuentes/Juego-de-la-vida-de-Conway)
+[![Bowser-Hopper](https://raw.githubusercontent.com/JavFuertes/Bowser-Hopper/main/pixelated_hopper.gif)](https://github.com/JavFuertes/Bowser-Hopper)
 
 ## ¡Hey! 
-I am **Javier Fuertes**, a Civil & structural engineer which also does some development on data science and machine learning specific problems in the built environment.<br>
+I am **Javier Fuertes**, a Civil & structural engineer which also does some development on data science and machine learning specific problems relevant to the built environment. I would consider myself as a intermediate level programmer with experience in multiple languages including Python, PHP, MATLAB and front-end. My pogramming orientation in mostly two fold in the first case this includes Data science,Analytics and machine learning, more in particularly in fields such as optimisation and bayesian regression problems. In the second case, I also possess software development and web development, where I manage some personal projects in a VPS.
 
-
-## Programming languages & latest projects:
-<p align="center"> 
-  <a href="https://www.android.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234497893-4893b87a-295f-41b5-875c-4392376302e9.png" alt="android" width="40" height="40"/> </a>>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234502421-40c0d9a1-c91e-44a8-92cc-7d573d7b8492.png" alt="aws" width="40" height="40"/> </a>
-  <a href="https://git-scm.com" target="_blank"> <img src="https://user-images.githubusercontent.com/122236197/234499665-57fa0e14-9e14-48bd-a009-5a259966fde3.png" alt="git" width="40" height="40"/> </a>
-</p>
-
-### Latest projects & future projects
+### Latest projects
 
 <table style="width:100; table-layout:fixed">
   <tr>
@@ -28,8 +20,7 @@ I am **Javier Fuertes**, a Civil & structural engineer which also does some deve
   </tr>
 </table>
 
-Currently all projects have been very civil engineering oriented. Nevertheless from now onwards I expect to begin to branch again into front-endd and back-end development.
-
+Currently all projects have been very civil engineering oriented. Nevertheless expect other stack project soon particularly front-end - back-end.
 
 ---
 ## Profile Statistics 📈
