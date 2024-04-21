@@ -27,13 +27,14 @@ Currently all projects have been very civil engineering oriented. Nevertheless e
 
 <table>
     <tr>
-        <td width="60%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavFuertes&theme=github_dark" alt="Profile Details" style="width:100%;"></td>
-        <td width="20%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JavFuertes&theme=github_dark" alt="Repos Per Language" style="width:100%;"></td>
-        <td width="20%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JavFuertes&theme=github_dark" alt="Most Commit Language" style="width:100%;"></td>
+        <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavFuertes&theme=github_dark" alt="Profile Details" style="width:100%;"></td>
+        <td width="25%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JavFuertes&theme=github_dark" alt="Repos Per Language" style="width:100%;"></td>
+        <td width="25%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JavFuertes&theme=github_dark" alt="Most Commit Language" style="width:100%;"></td>
     </tr>
 </table>
 
----
+## 
+
 ![](https://komarev.com/ghpvc/?username=JavFuertes)
 
 
