@@ -1,26 +1,34 @@
 [![Bowser-Hopper](https://raw.githubusercontent.com/JavFuertes/Bowser-Hopper/main/pixelated_hopper.gif)](https://github.com/JavFuertes/Bowser-Hopper)
 
 ## ¡Hey! 👋
-I am **Javier Fuertes**, a Civil & structural engineer 🏗️ which also does some development on data science and machine learning specific problems relevant to the built environment. I would consider myself as a intermediate level programmer with experience in multiple languages including Python, PHP, MATLAB and front-end. My pogramming orientation in mostly two fold in the first case this includes Data science,Analytics and machine learning, more in particularly in fields such as optimisation and bayesian regression problems. In the second case, I also possess software development and web development, where I manage some personal projects in a VPS.
+I am **Javier Fuertes**, a Civil & structural engineer 🏗️ which occasionally does some programming on the side in web-dev, data science and machine learning applications mostly relevant to the built environment. My main programming experience is in languages such as Python, PHP, MATLAB and front-end dev, which I use in different projects mainly to improve the interactivity, automation and scientific approach of different projects. 
 
 ## Latest projects 📁
 
+Some of my latest projects include,
+
 <table style="width:100; table-layout:fixed">
   <tr>
-    <th>BRICKS 🧱</th>
-    <th>TRUSS 🌉</th>
+    <th>Project</th>
+    <th>Preview</th>
   </tr>
   <tr>
-    <td>		
-        <img src="https://raw.githubusercontent.com/JavFuertes/BRICKS/main/_data/fig/LTSM_assess.png" />		
-	</td>
+    <td>BRICKS 🧱</td>
+    <td><img src="https://raw.githubusercontent.com/JavFuertes/BRICKS/main/_data/fig/LTSM_assess.png" /></td>
+  </tr>
+  <tr>
+    <td>TRUSS 🌉</td>
     <td>
         <img src="https://raw.githubusercontent.com/JavFuertes/TRUSS1/main/reading/Figures/solution_approach/Truss_convegence.gif" alt="TRUSS" />
-	</td>
+	  </td>
+  </tr>
+  <tr>
+    <td>Rail 🚆</td>
+    <td>
+        <img src="https://raw.githubusercontent.com/JavFuertes/RAIL01/main/_Alt/Figures/Graphs/Reconstruction/reconstruction1/reconstruction_s1.gif" alt="RAIL" />
+	  </td>
   </tr>
 </table>
-
-Currently all projects have been very civil engineering oriented. Nevertheless expect other stack project soon particularly front-end - back-end.
 
 ## Profile Statistics 📈
 
