@@ -14,7 +14,7 @@ Some of my latest projects include,
   </tr>
   <tr>
     <td>BRICKS 🧱</td>
-    <td><img src="https://raw.githubusercontent.com/JavFuertes/BRICKS/main/_data/fig/LTSM_assess.png" /></td>
+    <td><img src="https://raw.githubusercontent.com/JavFuertes/BRICKS/main/.github/public_html/fig/LTSM_assess.png"/></td>
   </tr>
   <tr>
     <td>TRUSS 🌉</td>
