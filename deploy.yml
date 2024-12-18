@@ -1,4 +1,4 @@
-name: Deploy
+name: D&B
 
 on:
   push:
