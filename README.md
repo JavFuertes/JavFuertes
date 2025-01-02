@@ -1,34 +1,8 @@
 [![Bowser-Hopper](https://raw.githubusercontent.com/JavFuertes/Bowser-Hopper/main/pixelated_hopper.gif)](https://github.com/JavFuertes/Bowser-Hopper)
 
-## ¡Hey! 👋
-I am **Javier Fuertes**, a Civil & structural engineer 🏗️ which occasionally does some programming on the side in web-dev, data science and machine learning applications mostly relevant to the built environment. My main programming experience is in languages such as Python, PHP, MATLAB and front-end dev, which I use in different projects mainly to improve the interactivity, automation and scientific approach of different projects. 
+## ¡Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-## Latest projects 📁
-
-Some of my latest projects include,
-
-<table style="width:100; table-layout:fixed">
-  <tr>
-    <th>Project</th>
-    <th>Preview</th>
-  </tr>
-  <tr>
-    <td>BRICKS 🧱</td>
-    <td><img src="https://raw.githubusercontent.com/JavFuertes/BRICKS/main/_data/fig/LTSM_assess.png" /></td>
-  </tr>
-  <tr>
-    <td>TRUSS 🌉</td>
-    <td>
-        <img src="https://raw.githubusercontent.com/JavFuertes/TRUSS1/main/reading/Figures/solution_approach/Truss_convegence.gif" alt="TRUSS" />
-	  </td>
-  </tr>
-  <tr>
-    <td>Rail 🚆</td>
-    <td>
-        <img src="https://raw.githubusercontent.com/JavFuertes/RAIL01/main/_Alt/Figures/Graphs/Reconstruction/reconstruction1/reconstruction_s1.gif" alt="RAIL" />
-	  </td>
-  </tr>
-</table>
+👋 Hi there! I’m Javier, a Civil and Structural Engineer who enjoys programming in my free time. Here, you’ll mostly find my Data Science and Machine Learning projects, but who knows? I might surprise you with something different down the line. Thanks for visiting, and don’t hesitate to reach out! 🚀😊
 
 ## Profile Statistics 📈
 
