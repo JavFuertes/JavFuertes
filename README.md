@@ -2,7 +2,7 @@
 
 ## ¡Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-👋 Hi there! I’m Javier, a Civil and Structural Engineer who enjoys programming in my free time. Here, you’ll mostly find my Data Science and Machine Learning projects, but who knows? I might surprise you with something different down the line. Thanks for visiting, and don’t hesitate to reach out! 🚀😊
+Hi there! I’m Javier, a Civil and Structural Engineer who enjoys programming in his free time. Here, you’ll mostly find my Data Science and Machine Learning projects. Thanks for visiting, and don’t hesitate to reach out! 🚀😊
 
 ## Profile Statistics 📈
 
